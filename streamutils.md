@@ -8,5 +8,4 @@
 * `public static void copy(String in, Charset charset, OutputStream out)`:复制输入流字节内容给string字符串
 * `public static int copy(InputStream in, OutputStream out)`:输入流复制到输出流
 * `public static long copyRange(InputStream in, OutputStream out, long start, long end)`:复制输入流区间值到输出流
-
-
+* `public static int drain(InputStream in)`:清空输入流,统计输入流大小
