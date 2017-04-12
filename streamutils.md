@@ -49,6 +49,7 @@ import java.io.Writer;
 import java.nio.charset.Charset;
 
 /**
+ * 流的简单操作工具类,所有拷贝方法使用的缓存区为4096字节
  * Simple utility methods for dealing with streams. The copy methods of this class are
  * similar to those defined in {@link FileCopyUtils} except that all affected streams are
  * left open when done. All copy methods use a block size of 4096 bytes.
