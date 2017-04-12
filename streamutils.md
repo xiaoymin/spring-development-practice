@@ -4,5 +4,6 @@
 
 * public static String copyToString\(InputStream in,Charset charset\):复制输入流内容给String字符串
 
+* 
 
 
