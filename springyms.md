@@ -4,7 +4,6 @@ GitHub地址:[spring-framework](https://github.com/spring-projects/spring-framew
 
 Spring模块一览：
 
-  
 ![](/assets/20170413103519.jpg)
 
 模块名称
@@ -34,7 +33,7 @@ Spring模块一览：
 | spring-web | Spring MVC核心模块 |
 | spring-webflux |  |
 | spring-webmvc |  |
-| spring-websocket |  |
+| spring-websocket | Spring websocket模块 |
 
 
 
