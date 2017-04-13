@@ -30,7 +30,7 @@ Spring模块一览：
 | spring-oxm |  |
 | spring-test |  |
 | spring-tx |  |
-| spring-web |  |
+| spring-web | Spring MVC核心模块  |
 | spring-webflux |  |
 | spring-webmvc |  |
 | spring-websocket |  |
