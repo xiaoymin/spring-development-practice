@@ -26,6 +26,12 @@ Spring模块一览：
 | spring-jdbc |  |
 | spring-jms |  |
 | spring-messaging |  |
-|  |  |
-
+| spring-orm |  |
+| spring-oxm |  |
+| spring-test |  |
+| spring-tx |  |
+| spring-web |  |
+| spring-webflux |  |
+| spring-webmvc |  |
+| spring-websocket |  |
 
