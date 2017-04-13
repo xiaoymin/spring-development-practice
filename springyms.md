@@ -13,6 +13,13 @@ Spring模块一览：
 | buildSrc |  |
 | gradle |  |
 | spring-aop |  |
+| spring-aspects |  |
+| spring-beans |  |
+| spring-beans-groovy |  |
+| spring-context |  |
+| spring-context-indexer |  |
+| spring-context-support |  |
+| spring-core |  |
 |  |  |
 |  |  |
 |  |  |
@@ -20,7 +27,5 @@ Spring模块一览：
 |  |  |
 |  |  |
 |  |  |
-|  |  |
-
 
 
